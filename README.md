@@ -43,15 +43,6 @@
 
 ---
 
-## 📫 Contact
-
-* **Email**: [junsumon090608@gmail.com](mailto:junsumon090608@gmail.com)  
-* **GitHub**: [fita8547](https://github.com/fita8547)  
-* **Blog**: [Velog](https://velog.io/@fita8547/posts)  
-* **Notion**: [Portfolio](https://www.notion.so/73e91dbd4ddd4e50b1fd5fabdfaa3f82?pvs=21)
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff" alt="footer" />
 </p>
