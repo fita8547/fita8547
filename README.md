@@ -12,20 +12,6 @@
 
 ---
 
-## 👋 About Me
-
-* **Name**: 장준수 (Junsu Jang)  
-* **Role**: Frontend Developer · Student @ 대구소프트웨어마이스터고등학교 (졸업 예정: 2028.2)  
-* **Focus**: HTML, CSS, JavaScript 기반 웹 개발 · CSR(Communication, Strategy, Reflection) · 협업 리더십  
-* **Now**: 프로젝트 기획 및 프론트엔드 개발, 해커톤 및 교육 프로그램 참가  
-* **More**: [Notion Portfolio](https://www.notion.so/73e91dbd4ddd4e50b1fd5fabdfaa3f82?pvs=21)
-
-✉️ Email: [junsumon090608@gmail.com](mailto:junsumon090608@gmail.com)  
-💻 GitHub: [fita8547](https://github.com/fita8547)  
-📝 Blog: [Velog](https://velog.io/@fita8547/posts)
-
----
-
 ## 🧰 Tech & Tools
 
 **Languages**: HTML, CSS, JavaScript, Python, Java  
@@ -44,22 +30,6 @@
 
 ---
 
-## 🏗️ Featured Projects
-
-* **어디 (동아리 프로젝트)** — 학교 분실물 찾기 서비스  
-  * 담당: 디자인, 프론트엔드 개발  
-  [Figma](https://www.figma.com/design/zQMMaX2gxuiiUSswkWGMgk/%EC%96%B4%EB%94%94?node-id=104-2)
-
-* **스투 (개인 프로젝트)** — 사용자 맞춤형 투두리스트 서비스  
-  * 담당: 디자인, 프론트엔드 개발  
-  [Figma](https://www.figma.com/design/6pwdNl7x2Q0eHueCt0kmuV/%EC%8A%A4%ED%88%AC--%EC%8A%A4%EC%8A%A4%EB%9F%BC%EC%9D%B4-%EC%97%86%EC%9D%B4-%ED%88%AC%EB%91%90%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%A0%81%EB%8A%94-%EC%9B%B9-?node-id=241-93)
-
-* **COMU-D (커뮤니티 서비스)** — 사용자들의 아이디어 공유 및 기획 지원 플랫폼  
-  * 담당: 디자인, 프론트엔드 개발  
-  [Figma](https://www.figma.com/design/szsQr3DX7guUnfHmReVT56/%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0?node-id=3324-61)
-
----
-
 ## 📊 GitHub Insights
 
 <p>
@@ -70,14 +40,6 @@
 <p>
   <img src="https://streak-stats.demolab.com/?user=fita8547&theme=default" alt="streak"/>
 </p>
-
----
-
-## 🎯 Values & Principles
-
-* **Communication**: 협업에서 명확한 소통과 회고를 중시합니다.  
-* **Strategy**: 목표 지향적이고 실용적인 개발을 추구합니다.  
-* **Reflection**: 프로젝트를 통해 배운 점을 돌아보고 개선합니다.  
 
 ---
 
