@@ -7,7 +7,9 @@
 <!-- 타이핑 애니메이션: 소개 한 줄 키워드 -->
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=750&lines=Frontend+Developer+who+loves+turning+ideas+into+reality;Web+%2F+EdTech+%2F+Hackathon+Projects;Communication+%C2%B7+Strategy+%C2%B7+Reflection+mindset" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=750&lines=Frontend+Developer+who+turns+bright+ideas+into+real+experiences;Building+fun+%26+impactful+projects+with+passion;Creativity+%C2%B7+Collaboration+%C2%B7+Continuous+growth" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
