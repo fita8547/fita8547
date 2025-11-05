@@ -16,9 +16,9 @@
 
 ## 🧰 Tech & Tools
 
-**Languages**: HTML, CSS, JavaScript, Python, Java  
-**Tools**: Git, GitHub, Netlify, ngrok, Notion, Figma, Framer  
-**Environment**: Visual Studio Code, IntelliJ
+**Languages**: HTML, CSS, JavaScript, Python  
+**Tools**: Git, GitHub, Notion  
+**Environment**: Visual Studio Code, Cursor
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -37,10 +37,6 @@
 <p>
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=fita8547&show_icons=true&theme=transparent"/>
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fita8547&layout=compact"/>
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com/?user=fita8547&theme=default" alt="streak"/>
 </p>
 
 ---
