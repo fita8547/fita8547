@@ -4,13 +4,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=200&section=header&text=Hello%20there!%20I'm%20Junsu%20Jang&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header"/>
 </p>
 
-<!-- 타이핑 애니메이션: 소개 한 줄 키워드 -->
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=750&lines=Frontend+Developer+who+turns+bright+ideas+into+real+experiences;Building+fun+%26+impactful+projects+with+passion;Creativity+%C2%B7+Collaboration+%C2%B7+Continuous+growth" alt="Typing SVG" />
-  </a>
-</p>
 
 ---
 
@@ -25,7 +18,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
