@@ -1,7 +1,7 @@
 <!-- 헤더 배너: capsule-render -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=200&section=header&text=Hello%20there!%20I'm%20Junsu%20Jang&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B86E5,100:36D1DC&height=200&section=header&text=안녕하세요!%20아이디어 실현을 원하는 개발자%20I'm%20장준수입니다.%20Jang&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header"/>
 </p>
 
 
@@ -24,15 +24,6 @@
 
 ---
 
-## 📊 GitHub Insights
-
-<p>
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=fita8547&show_icons=true&theme=transparent"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fita8547&layout=compact"/>
-</p>
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer&text=좋은%20하루%20되세요!&fontSize=24&fontColor=ffffff" alt="footer" />
 </p>
