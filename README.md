@@ -62,12 +62,11 @@ Student Developer · Daegu, Korea
 
 ## GITHUB STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fita8547&show_icons=true&theme=transparent"/>
-</p>
+## GITHUB STATS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fita8547&layout=compact&theme=transparent"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fita8547&show_icons=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fita8547&layout=compact&theme=transparent" height="165"/>
 </p>
 
 ---
