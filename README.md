@@ -69,7 +69,13 @@ Student Developer · Daegu, Korea
 </p>
 
 ---
+## GIT ANIMALS
 
+<p align="center">
+  <img src="https://render.gitanimals.org/farms/fita8547?loading" width="500"/>
+</p>
+
+---
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer"/>
 </p>
