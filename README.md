@@ -60,7 +60,6 @@ Student Developer · Daegu, Korea
 
 ---
 
-## GITHUB STATS
 
 ## GITHUB STATS
 
