@@ -51,24 +51,6 @@ Student Developer · Daegu, Korea
 </p>
 
 ---
-
-## INTEREST
-
-- Web service development  
-- AI-based services  
-- Security & data-driven projects  
-
----
-
-
-## GITHUB STATS
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=fita8547&show_icons=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=fita8547&layout=compact&theme=transparent" height="165"/>
-</p>
-
----
 ## GIT ANIMALS
 
 <p align="center">
