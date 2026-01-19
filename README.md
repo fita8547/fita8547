@@ -55,7 +55,10 @@ Student Developer · Daegu, Korea
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kiro-6366F1?style=flat-square&logo=amazonaws&logoColor=white"/>
 </p>
-
+__
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fita8547&layout=compact&bg_color=180,000000,000000&title_color=000000&text_color=000000" />
+</p>
 ---
 ## GIT ANIMALS
 
