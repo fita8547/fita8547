@@ -18,13 +18,6 @@ Student Developer · Daegu, Korea
 
 ---
 
-## ABOUT
-
-아이디어를 실제 서비스로 구현하는 과정에 관심이 많은 학생 개발자입니다.  
-프로필 사이트, 기술 스택, 경험, GitHub 활동 내역을 이 공간에 정리하고 있습니다.
-
----
-
 ## WHAT I'VE USED
 
 ### Languages
@@ -46,18 +39,9 @@ Student Developer · Daegu, Korea
 </p>
 
 ---
-
-### Tools
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kiro-6366F1?style=flat-square&logo=amazonaws&logoColor=white"/>
-</p>
-__
+### GithubStats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fita8547&layout=compact&bg_color=180,000000,000000&title_color=000000&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fita8547&layout=compact&theme=dark" />
 </p>
 ---
 ## GIT ANIMALS
