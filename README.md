@@ -1,6 +1,7 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B86E5,100:36D1DC&height=180&section=header&text=FITA&fontSize=60&fontColor=ffffff&desc=아이디어%20실현을%20원하는%20개발자&descAlignY=70" />
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B86E5,100:36D1DC&height=180&section=header&text=FITA&fontSize=60&fontColor=ffffff&desc=아이디어%20실현을%20원하는%20개발자&descAlignY=70&v=1" />
+
 </p>
 
 <p align="center">
