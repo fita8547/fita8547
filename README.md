@@ -42,12 +42,6 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
 </p>
 
----
-
-### GithubStats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fita8547&layout=compact&theme=dark" alt="Top Langs"/>
-</p>
 
 ---
 
