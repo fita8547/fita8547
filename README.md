@@ -1,22 +1,12 @@
-<!-- Header -->
-<p align="center">
-  <img src="./assets/header.svg" alt="FITA header" />
-</p>
 
-<p align="center">
-  Student Developer · Daegu, Korea
-</p>
-
----
-
-## My Projects & Tech Log
+## my log
 
 <p align="center">
   <a href="https://github.com/fita8547">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://fita.tistory.com/">
-    <img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=tistory&logoColor=white" alt="Blog"/>
+  <a href="https://www.youtube.com/@fita개발자">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
 
